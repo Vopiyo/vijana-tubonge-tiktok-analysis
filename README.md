@@ -73,6 +73,7 @@ Cross-sectional survey among adolescents and young people aged 10-24 years in Ma
 ### Sample Characteristics
 
 | Category                            | n   | %     |
+
 |---------- --------------------------|-----|-------|
 | Total Respondents                   | 379 | 100%  |
 | Aware of VT                         | 318 | 83.9% |
