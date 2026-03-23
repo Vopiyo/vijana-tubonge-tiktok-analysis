@@ -45,7 +45,7 @@ Can a TikTok-based intervention effectively reach, engage, and drive health-seek
 
 ### Comprehensive Dashboard
 
-![Dashboard](analysis_results_20260314_221117/figures/dashboard/figure_dashboard_combined.png)
+![Dashboard](figure_dashboard_combined.png)
 
 ### Key Visualizations
 
