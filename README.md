@@ -16,7 +16,7 @@
 This project analyzes the impact of the **Vijana Tubonge** TikTok account in delivering youth-friendly health education, mentorship, and linking adolescents and young people to essential health services in Machakos County, Kenya.
 
 ### The Challenge
-Adolescents and young people face significant barriers to accessing health services: stigma, distance, lack of awareness. Traditional outreach methods often fail to reach this digitally-native demographic where they spend most of their time—on TikTok.
+Adolescents and young people face significant barriers to accessing health services: stigma, distance, lack of awareness. Traditional outreach methods often fail to reach this digitally-native demographic where they spend most of their time (TikTok).
 
 ### The Innovation
 Vijana Tubonge (Swahili for "Youth Let's Talk") created a TikTok account to deliver health education through short-form videos, live sessions, and interactive Q&As, meeting young people where they already are.
