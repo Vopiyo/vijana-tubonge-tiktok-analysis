@@ -72,14 +72,24 @@ Cross-sectional survey among adolescents and young people aged 10-24 years in Ma
 
 ### Sample Characteristics
 
-| Category                            | n   | %     |
+| Category                                | n   | %     |
+|---------- ------------------------------|-----|-------|
+| **Total Respondents**                   | 379 | 100%  |
+| **Aware of VT**                         | 318 | 83.9% |
+| **Followers (of those aware)**          | 270 | 84.9% |
+| **Referred to Services (of followers)** | 110 | 40.7% |
+| **Accessed Services (of referred)**     | 106 | 96.4% |
 
-|---------- --------------------------|-----|-------|
-| Total Respondents                   | 379 | 100%  |
-| Aware of VT                         | 318 | 83.9% |
-| Followers (of those aware)          | 270 | 84.9% |
-| Referred to Services (of followers) | 110 | 40.7% |
-| Accessed Services (of referred)     | 106 | 96.4% |
+| Category                 | Result   | Significance                                   |
+|--------------------------|----------|------------------------------------------------|
+| **Awareness**            | 83.9%    | High penetration among target population       |
+| **Followership**         | 84.9%    | Strong conversion from awareness to engagement |
+| **Knowledge Increase**   | 97.0%    | Educational objectives achieved                |
+| **Trust in Information** | 96.3%    | Platform perceived as highly credible          |
+| **Referral Rate**        | 40.7%    | Nearly half of followers receive referrals     |
+| **Service Access**       | 96.4%    | Digital referrals drive real-world utilization |
+| **Service Satisfaction** | 100%     | Referral pathways lead to helpful services     |
+| **Awareness Increase**   | +36.7 pp | Substantial improvement in service awareness   |
 
 ### Data Collection
 Structured questionnaire covering six domains:
